@@ -1,0 +1,22 @@
+{
+  "name": "abissal",
+  "displayName": "Abissal",
+  "description": "The Abyssal theme is inspired by the dark depth of the ocean and the elegance of the great white shark",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abissal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abissal-color-theme.json"
+      }
+    ]
+  }
+}
