@@ -2,7 +2,12 @@
   "name": "abissal",
   "displayName": "Abissal",
   "description": "The Abyssal theme is inspired by the dark depth of the ocean and the elegance of the great white shark",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "publisher": "Henriquehnnm",
+  "author": {
+    "name": "Henrique",
+    "url": "https://github.com/Henriquehnnm"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -10,6 +15,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/abissal-theme/"
+  },
   "contributes": {
     "themes": [
       {
